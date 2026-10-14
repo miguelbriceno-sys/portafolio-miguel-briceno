@@ -6,8 +6,6 @@ Soy estudiante de **tercer año de Ingeniería Informática** y busco una **prá
 
 ### [Ver portafolio web](https://miguelbriceno-sys.github.io/portafolio-miguel-briceno/)
 
-> El enlace estará disponible después de habilitar GitHub Pages en **Settings → Pages → Deploy from a branch → main → / (root)** y completar el despliegue.
-
 ## Habilidades técnicas
 
 | Tecnología | Nivel |
