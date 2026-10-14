@@ -27,9 +27,6 @@ Soy estudiante de **tercer año de Ingeniería Informática** y busco una **prá
 3. **Página web para emprendedora:** diseño y desarrollo de sitio web informativo y adaptable.
 4. **[SecureBank API · MIDAMA](https://github.com/miguelbriceno-sys/MIDAMA-SecureBank-API):** proyecto académico en equipo de API de prueba, autenticación, tests y DevSecOps.
 5. **[Maipo Sur · Infraestructura crítica](https://github.com/miguelbriceno-sys/Taller-de-infraestructura-critica):** laboratorio académico grupal de software, automatización y controles de seguridad.
-6. **Portafolio académico de inteligencia artificial:** sitio web responsive de contenidos y proyectos del curso.
-
-Los proyectos de equipo se identifican como colaborativos. Los prototipos IoT y la página para emprendedora todavía no tienen código fuente público enlazado.
 
 ## Formación y experiencia
 
